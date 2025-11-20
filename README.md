@@ -54,7 +54,7 @@ DEBIX Camera 1300A Module is a compact HD camera for DEBIX SBCs with a 13MP sens
 | Dynamic Range   | 69dB                         |
 | Power Supply    | Core: 1.2VDC<br>Analog: 2.7VDC<br>I/O: 3.3VDC   |
 | Power Consumption | Operating: 270mW           |
-| Temperature Range | Operating Temp.: -30℃~70℃<br>Storage Temp.: -40℃~85℃ |
+| Temperature Range | Operating Temp.: -30℃\~70℃<br>Storage Temp.: -40℃\~85℃ |
 
 ## Certificates
 <p align="left">
